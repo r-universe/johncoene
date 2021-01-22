@@ -3,3 +3,51 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cicerone"]
+	path = cicerone
+	url = https://github.com/johncoene/cicerone
+	shallow = true
+[submodule "echarts4r"]
+	path = echarts4r
+	url = https://github.com/johncoene/echarts4r
+	shallow = true
+[submodule "firebase"]
+	path = firebase
+	url = https://github.com/johncoene/firebase
+	shallow = true
+[submodule "graphTweets"]
+	path = graphTweets
+	url = https://github.com/johncoene/graphtweets
+	shallow = true
+[submodule "linne"]
+	path = linne
+	url = https://github.com/johncoene/linne
+	shallow = true
+[submodule "packer"]
+	path = packer
+	url = https://github.com/johncoene/packer
+	shallow = true
+[submodule "pushbar"]
+	path = pushbar
+	url = https://github.com/johncoene/pushbar
+	shallow = true
+[submodule "rodham"]
+	path = rodham
+	url = https://github.com/johncoene/rodham
+	shallow = true
+[submodule "sever"]
+	path = sever
+	url = https://github.com/johncoene/sever
+	shallow = true
+[submodule "sigmajs"]
+	path = sigmajs
+	url = https://github.com/johncoene/sigmajs
+	shallow = true
+[submodule "tippy"]
+	path = tippy
+	url = https://github.com/johncoene/tippy
+	shallow = true
+[submodule "waiter"]
+	path = waiter
+	url = https://github.com/johncoene/waiter
+	shallow = true
