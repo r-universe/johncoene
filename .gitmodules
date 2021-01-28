@@ -3,6 +3,10 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ambiorix"]
+	path = ambiorix
+	url = https://github.com/johncoene/ambiorix
+	shallow = true
 [submodule "cicerone"]
 	path = cicerone
 	url = https://github.com/johncoene/cicerone
