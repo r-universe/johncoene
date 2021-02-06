@@ -35,10 +35,6 @@
 	path = pushbar
 	url = https://github.com/johncoene/pushbar
 	shallow = true
-[submodule "rodham"]
-	path = rodham
-	url = https://github.com/johncoene/rodham
-	shallow = true
 [submodule "sever"]
 	path = sever
 	url = https://github.com/johncoene/sever
