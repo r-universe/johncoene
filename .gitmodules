@@ -8,11 +8,6 @@
 	url = https://github.com/johncoene/ambiorix
 	shallow = true
 	registered = true
-[submodule "cicerone"]
-	path = cicerone
-	url = https://github.com/johncoene/cicerone
-	shallow = true
-	registered = true
 [submodule "echarts4r"]
 	path = echarts4r
 	url = https://github.com/johncoene/echarts4r
