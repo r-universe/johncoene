@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "cicerone",
+    "oncran": true
+  },
+  {
     "package": "echarts4r",
     "oncran": true
   },
