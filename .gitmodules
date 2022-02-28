@@ -58,8 +58,3 @@
 	url = https://github.com/johncoene/waiter
 	shallow = true
 	registered = true
-[submodule "log"]
-	path = log
-	url = https://github.com/devOpifex/log
-	shallow = true
-	registered = false
