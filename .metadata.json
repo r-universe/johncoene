@@ -1,9 +1,5 @@
 [
   {
-    "package": "ambiorix",
-    "oncran": true
-  },
-  {
     "package": "cicerone",
     "oncran": true
   },
