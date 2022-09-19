@@ -4,19 +4,11 @@
     "oncran": true
   },
   {
-    "package": "echarts4r",
-    "oncran": true
-  },
-  {
     "package": "firebase",
     "oncran": true
   },
   {
     "package": "graphTweets",
-    "oncran": true
-  },
-  {
-    "package": "linne",
     "oncran": true
   },
   {
