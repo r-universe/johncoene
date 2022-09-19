@@ -8,6 +8,11 @@
 	url = https://github.com/johncoene/cicerone
 	shallow = true
 	registered = true
+[submodule "echarts4r"]
+	path = echarts4r
+	url = https://github.com/johncoene/echarts4r
+	shallow = true
+	registered = true
 [submodule "firebase"]
 	path = firebase
 	url = https://github.com/johncoene/firebase
@@ -16,6 +21,11 @@
 [submodule "graphTweets"]
 	path = graphTweets
 	url = https://github.com/johncoene/graphtweets
+	shallow = true
+	registered = true
+[submodule "linne"]
+	path = linne
+	url = https://github.com/johncoene/linne
 	shallow = true
 	registered = true
 [submodule "packer"]
