@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "firebase",
-    "oncran": true
-  },
-  {
     "package": "graphTweets",
     "oncran": true
   },
