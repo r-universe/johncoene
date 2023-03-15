@@ -1,30 +1,6 @@
 [
   {
-    "package": "cicerone",
-    "oncran": true
-  },
-  {
-    "package": "echarts4r",
-    "oncran": true
-  },
-  {
-    "package": "graphTweets",
-    "oncran": true
-  },
-  {
-    "package": "linne",
-    "oncran": true
-  },
-  {
     "package": "packer",
-    "oncran": true
-  },
-  {
-    "package": "pushbar",
-    "oncran": true
-  },
-  {
-    "package": "sever",
     "oncran": true
   },
   {
@@ -32,7 +8,31 @@
     "oncran": true
   },
   {
+    "package": "graphTweets",
+    "oncran": true
+  },
+  {
+    "package": "sever",
+    "oncran": true
+  },
+  {
+    "package": "pushbar",
+    "oncran": true
+  },
+  {
     "package": "tippy",
+    "oncran": true
+  },
+  {
+    "package": "echarts4r",
+    "oncran": true
+  },
+  {
+    "package": "linne",
+    "oncran": true
+  },
+  {
+    "package": "cicerone",
     "oncran": true
   },
   {
