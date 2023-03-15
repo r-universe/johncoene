@@ -3,34 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "packer"]
-	path = packer
-	url = https://github.com/johncoene/packer
-	shallow = true
-	registered = true
-[submodule "sigmajs"]
-	path = sigmajs
-	url = https://github.com/johncoene/sigmajs
-	shallow = true
-	registered = true
-[submodule "graphTweets"]
-	path = graphTweets
-	url = https://github.com/johncoene/graphtweets
-	shallow = true
-	registered = true
-[submodule "sever"]
-	path = sever
-	url = https://github.com/johncoene/sever
-	shallow = true
-	registered = true
-[submodule "pushbar"]
-	path = pushbar
-	url = https://github.com/johncoene/pushbar
-	shallow = true
-	registered = true
-[submodule "tippy"]
-	path = tippy
-	url = https://github.com/johncoene/tippy
+[submodule "cicerone"]
+	path = cicerone
+	url = https://github.com/johncoene/cicerone
 	shallow = true
 	registered = true
 [submodule "echarts4r"]
@@ -38,14 +13,39 @@
 	url = https://github.com/johncoene/echarts4r
 	shallow = true
 	registered = true
+[submodule "graphTweets"]
+	path = graphTweets
+	url = https://github.com/johncoene/graphtweets
+	shallow = true
+	registered = true
 [submodule "linne"]
 	path = linne
 	url = https://github.com/johncoene/linne
 	shallow = true
 	registered = true
-[submodule "cicerone"]
-	path = cicerone
-	url = https://github.com/johncoene/cicerone
+[submodule "packer"]
+	path = packer
+	url = https://github.com/johncoene/packer
+	shallow = true
+	registered = true
+[submodule "pushbar"]
+	path = pushbar
+	url = https://github.com/johncoene/pushbar
+	shallow = true
+	registered = true
+[submodule "sever"]
+	path = sever
+	url = https://github.com/johncoene/sever
+	shallow = true
+	registered = true
+[submodule "sigmajs"]
+	path = sigmajs
+	url = https://github.com/johncoene/sigmajs
+	shallow = true
+	registered = true
+[submodule "tippy"]
+	path = tippy
+	url = https://github.com/johncoene/tippy
 	shallow = true
 	registered = true
 [submodule "waiter"]
