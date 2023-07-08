@@ -8,6 +8,9 @@
 [submodule "echarts4r"]
 	path = echarts4r
 	url = https://github.com/johncoene/echarts4r
+[submodule "firebase"]
+	path = firebase
+	url = https://github.com/johncoene/firebase
 [submodule "graphTweets"]
 	path = graphTweets
 	url = https://github.com/johncoene/graphtweets
