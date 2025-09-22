@@ -11,9 +11,6 @@
 [submodule "firebase"]
 	path = firebase
 	url = https://github.com/johncoene/firebase
-[submodule "graphTweets"]
-	path = graphTweets
-	url = https://github.com/johncoene/graphtweets
 [submodule "linne"]
 	path = linne
 	url = https://github.com/johncoene/linne
