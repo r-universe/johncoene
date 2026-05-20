@@ -14,9 +14,6 @@
 [submodule "linne"]
 	path = linne
 	url = https://github.com/johncoene/linne
-[submodule "packer"]
-	path = packer
-	url = https://github.com/johncoene/packer
 [submodule "pushbar"]
 	path = pushbar
 	url = https://github.com/johncoene/pushbar
